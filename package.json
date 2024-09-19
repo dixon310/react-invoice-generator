@@ -12,6 +12,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.0",
+    "@mui/material": "^6.1.0",
     "@react-pdf/renderer": "^3.4.4",
     "@uidotdev/usehooks": "^2.4.1",
     "@vitejs/plugin-react-swc": "^3.6.0",

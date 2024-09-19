@@ -1,6 +1,7 @@
 import InvoicePage from './components/InvoicePage'
 import { Invoice } from './data/types'
 
+
 function App() {
   const savedInvoice = window.localStorage.getItem('invoiceData')
   let data = null
