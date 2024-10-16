@@ -1,3 +1,5 @@
+Dixon version
+
 # React Invoice Generator
 
 React Invoice Generator allows you quickly make invoices and save them as PDF. [https://tuanpham-dev.github.io/react-invoice-generator/](https://tuanpham-dev.github.io/react-invoice-generator/)
